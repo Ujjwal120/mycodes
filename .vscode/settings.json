@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "*.html": "html",
+        "*.tcc": "cpp",
+        "string": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "iostream": "cpp",
+        "random": "cpp",
+        "bitset": "cpp",
+        "ratio": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp"
+    },
+    "compile-hero.disable-compile-files-on-did-save-code": true,
+    "restructuredtext.confPath": "",
+    "restructuredtext.languageServer.disabled": true
+}
